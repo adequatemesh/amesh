@@ -3,3 +3,4 @@
 
  * Freeform Discussions: https://github.com/orgs/adequatemesh/discussions
  * Issues and Discussions: https://github.com/adequatemesh/amesh/issues
+ * Kanban: https://github.com/orgs/adequatemesh/projects/1
